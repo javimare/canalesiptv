@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR" tv-logo="https://servidor10.xyz/images/canalsur.png" group-title="CANALES",CANALSUR
-https://photocall.tv/o6tq/11?ch=cs
+
+
+#EXTINF:-1 ,CANAL SUR
+
+https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/chunklist_b2200000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tv-logo="http://www.pctv.com.mx/Portals/_default/Skins/Incredible/css/tvc/canales/PXSPORTS-11829.PNG" group-title="DEPORTES",PX SPORTS
 http://23.237.0.58:25461/ioreyregkg/tvplaydsf/55
