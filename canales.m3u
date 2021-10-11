@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,CanalSur
+#EXTINF:-1, tvg-logo="https://servidor10.xyz/images/canalsur.png", Canal Sur
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/chunklist_b2200000.m3u8
