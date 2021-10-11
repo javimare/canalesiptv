@@ -1,6 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,CANAL SUR
+#EXTINF:-1 tvg-chno="1" tvg-id="Canal Sur",Canal Sur
 
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/chunklist_b2200000.m3u8
