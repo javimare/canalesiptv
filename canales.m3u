@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/elmaqui15/canalesiptv/main/canalsur.png", Canal Sur
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/chunklist_b2200000.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/elmaqui15/canalesiptv/main/a3cine.png", a3Cine
+http://stream.pcriot.com/v4hr/mp.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
