@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/elmaqui15/canalesiptv/main/canalsur.png", Canal Sur
+#EXTINF:-1,Canal Sur
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
